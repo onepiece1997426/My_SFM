@@ -5,9 +5,9 @@
 Windons10 VS2019
 
 requires:
-Eigen (my version 3.2.10)
-OpenCV (my version 3.4.5)
-Ceres
+Eigen (my version 3.2.10)  <br>
+OpenCV (my version 3.4.5) <br>
+Ceres  <br>
 
 ## 2020.02.01
 ## Version1.0
