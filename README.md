@@ -34,7 +34,7 @@ Ceres  <br>
 ![](https://github.com/onepiece1997426/My_SFM/raw/master/图片1.png)
 
 ## 2020.03.11
-## Version1.1
-###更新----------------------
-1.优化和添加了新的Reconstruction的初始化方式,可以直接从vector<特征点>等初始化;
-2.添加omp来优化找特征匹配的速度
+### Version1.1
+### 更新---------------------- <br>
+1.优化和添加了新的Reconstruction的初始化方式,可以直接从vector<特征点>等初始化;<br>
+2.添加omp来优化找特征匹配的速度<br>
